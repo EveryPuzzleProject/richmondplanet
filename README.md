@@ -24,12 +24,18 @@ page: heading, the credit as printed, the grid's size, where the answer was seen
 
 ## What isn't known
 
-- **Whose puzzles these were.** The first two are presented as made for, or sent to, the
-  Planet, and one maker signs from Hampton Institute. But later ones come from Kansas,
-  Oregon and Texas, and two carry a number under the grid, "No. 16" (1925-02-21) and
-  "No. 17" (02-28), where the Planet's own count would be 18 and 19. So some or all of the
-  puzzles may have come from a service that collected readers' puzzles for many papers. No
-  copyright or syndicate line appears near any grid.
+- **Whose puzzles these were.** At least from January 1925 they were not the Planet's
+  own. The Carbon County News of Red Lodge, Montana, printed "THIS WEEK'S CROSS WORD
+  PUZZLE ... by Magdalene Tuck", "a time limit test" to "be worked in not less than seven
+  minutes", on 1925-01-22: the Planet's puzzle of 1925-01-24, two days earlier, in a white
+  weekly two thousand miles away (read in the Library of Congress's page text,
+  https://www.loc.gov/resource/sn84036285/1925-01-22/ed-1/?sp=3; the page image has not been
+  compared). That fits the other signs: makers placed in Kansas, Oregon and Texas, and grid
+  numbers "No. 16" (1925-02-21) and "No. 17" (02-28) where the Planet's own count would be 18
+  and 19. So the Planet was taking a feature that supplied readers' puzzles to many papers.
+  Which service, and whether the first puzzles ("arranged by Mr. Cedric C. French for this
+  newspaper", October 1924) were also the service's, is not known. No copyright or syndicate
+  line appears near any grid.
 - **Who the makers were**, whichever is true.
 - **When it ended.** August 15, 1925 is the last page saved, not a known end.
 - **The five missing Saturdays** (`wanted.tsv`).
